@@ -13,7 +13,7 @@ body {
   width: 200px;
   padding-top: 32px;
   padding-bottom: 16px;
-  border: 1px solid #f3f3f3;
+  border: 1px solid $border-color;
   border-radius: 5px;
 
   &__header {
